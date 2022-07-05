@@ -1,0 +1,114 @@
+2022-07-05 10:07:298 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 10:07:340 INFO  HomePage :45 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (e22a0d1d6977ee7b78f7039ac61e211c)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 10:07:925 INFO  HomePage :50 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (e22a0d1d6977ee7b78f7039ac61e211c)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 10:07:157 INFO  HomePage :55 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (e22a0d1d6977ee7b78f7039ac61e211c)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 10:07:443 INFO  HomePage :61 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 10:07:672 INFO  HomePage :67 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (e22a0d1d6977ee7b78f7039ac61e211c)] -> id: nav-search-submit-button]
+2022-07-05 10:07:311 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 10:07:264 INFO  HomePage :45 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (75f892c99cabbf66104258c6ab86474e)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 10:07:942 INFO  HomePage :50 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (75f892c99cabbf66104258c6ab86474e)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 10:07:134 INFO  HomePage :55 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (75f892c99cabbf66104258c6ab86474e)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 10:07:513 INFO  HomePage :61 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 10:07:705 INFO  HomePage :67 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (75f892c99cabbf66104258c6ab86474e)] -> id: nav-search-submit-button]
+2022-07-05 10:07:99 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 10:07:616 INFO  HomePage :45 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (c65375261ef324b3a091a74936461047)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 10:07:971 INFO  HomePage :50 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (c65375261ef324b3a091a74936461047)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 10:07:269 INFO  HomePage :55 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (c65375261ef324b3a091a74936461047)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 10:07:592 INFO  HomePage :61 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 10:07:808 INFO  HomePage :67 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (c65375261ef324b3a091a74936461047)] -> id: nav-search-submit-button]
+2022-07-05 10:07:223 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 10:07:184 INFO  HomePage :45 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (7e47d86e1b8e239c9da1bd25583f7bec)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 10:07:548 INFO  HomePage :50 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (7e47d86e1b8e239c9da1bd25583f7bec)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 10:07:800 INFO  HomePage :55 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (7e47d86e1b8e239c9da1bd25583f7bec)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 10:07:114 INFO  HomePage :61 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 10:07:312 INFO  HomePage :67 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (7e47d86e1b8e239c9da1bd25583f7bec)] -> id: nav-search-submit-button]
+2022-07-05 10:07:683 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 10:07:728 INFO  HomePage :45 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (b75de5d3200cfeb0c75cd4aa59a0916f)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 10:07:38 INFO  HomePage :50 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (b75de5d3200cfeb0c75cd4aa59a0916f)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 10:07:356 INFO  HomePage :55 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (b75de5d3200cfeb0c75cd4aa59a0916f)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 10:07:654 INFO  HomePage :61 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 10:07:851 INFO  HomePage :67 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (b75de5d3200cfeb0c75cd4aa59a0916f)] -> id: nav-search-submit-button]
+2022-07-05 10:07:798 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 10:07:725 INFO  HomePage :45 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (36d16671359e6e519693e2947770250b)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 10:07:270 INFO  HomePage :50 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (36d16671359e6e519693e2947770250b)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 10:07:510 INFO  HomePage :55 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (36d16671359e6e519693e2947770250b)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 10:07:856 INFO  HomePage :61 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 10:07:54 INFO  HomePage :67 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (36d16671359e6e519693e2947770250b)] -> id: nav-search-submit-button]
+2022-07-05 10:07:382 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 10:07:97 INFO  HomePage :45 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (b817ebffd7ba3321cb53c3d991e5d1c9)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 10:07:557 INFO  HomePage :50 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (b817ebffd7ba3321cb53c3d991e5d1c9)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 10:07:882 INFO  HomePage :55 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (b817ebffd7ba3321cb53c3d991e5d1c9)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 10:07:186 INFO  HomePage :61 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 10:07:389 INFO  HomePage :67 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (b817ebffd7ba3321cb53c3d991e5d1c9)] -> id: nav-search-submit-button]
+2022-07-05 10:07:461 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 10:07:158 INFO  HomePage :45 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (02fc3562c0e07222c1c5f524653b751f)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 10:07:436 INFO  HomePage :50 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (02fc3562c0e07222c1c5f524653b751f)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 10:07:739 INFO  HomePage :55 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (02fc3562c0e07222c1c5f524653b751f)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 10:07:45 INFO  HomePage :61 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 10:07:254 INFO  HomePage :67 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (02fc3562c0e07222c1c5f524653b751f)] -> id: nav-search-submit-button]
+2022-07-05 11:07:844 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 11:07:255 INFO  HomePage :45 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (904d75ca7f9136c37065561f535e6191)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 11:07:676 INFO  HomePage :50 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (904d75ca7f9136c37065561f535e6191)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 11:07:890 INFO  HomePage :55 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (904d75ca7f9136c37065561f535e6191)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 11:07:156 INFO  HomePage :60 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 11:07:393 INFO  HomePage :65 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (904d75ca7f9136c37065561f535e6191)] -> id: nav-search-submit-button]
+2022-07-05 11:07:879 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 11:07:984 INFO  HomePage :45 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (8f4e57080ca744db84d3834429a11032)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 11:07:559 INFO  HomePage :50 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (8f4e57080ca744db84d3834429a11032)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 11:07:796 INFO  HomePage :55 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (8f4e57080ca744db84d3834429a11032)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 11:07:109 INFO  HomePage :60 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 11:07:438 INFO  HomePage :65 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (8f4e57080ca744db84d3834429a11032)] -> id: nav-search-submit-button]
+2022-07-05 11:07:85 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 11:07:583 INFO  HomePage :49 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (5584a20aa24484598c097ca767d2fb70)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 11:07:948 INFO  HomePage :54 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (5584a20aa24484598c097ca767d2fb70)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 11:07:313 INFO  HomePage :59 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (5584a20aa24484598c097ca767d2fb70)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 11:07:601 INFO  HomePage :64 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 11:07:844 INFO  HomePage :69 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (5584a20aa24484598c097ca767d2fb70)] -> id: nav-search-submit-button]
+2022-07-05 11:07:56 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 11:07:461 INFO  HomePage :49 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (827573d27430ffe82ba8f725db4de811)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 11:07:870 INFO  HomePage :54 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (827573d27430ffe82ba8f725db4de811)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 11:07:185 INFO  HomePage :59 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (827573d27430ffe82ba8f725db4de811)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 11:07:453 INFO  HomePage :64 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 11:07:739 INFO  HomePage :69 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (827573d27430ffe82ba8f725db4de811)] -> id: nav-search-submit-button]
+2022-07-05 11:07:687 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 11:07:563 INFO  HomePage :49 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (e3d7b32cc223142f673ec4d467fc9b47)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 11:07:960 INFO  HomePage :54 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (e3d7b32cc223142f673ec4d467fc9b47)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 11:07:302 INFO  HomePage :59 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (e3d7b32cc223142f673ec4d467fc9b47)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 11:07:610 INFO  HomePage :64 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 11:07:808 INFO  HomePage :69 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (e3d7b32cc223142f673ec4d467fc9b47)] -> id: nav-search-submit-button]
+2022-07-05 11:07:567 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 11:07:533 INFO  HomePage :49 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (5677102e95283218b21000239ed58ee7)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 11:07:947 INFO  HomePage :54 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (5677102e95283218b21000239ed58ee7)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 11:07:329 INFO  HomePage :59 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (5677102e95283218b21000239ed58ee7)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 11:07:664 INFO  HomePage :64 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 11:07:883 INFO  HomePage :69 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (5677102e95283218b21000239ed58ee7)] -> id: nav-search-submit-button]
+2022-07-05 11:07:506 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 11:07:515 INFO  HomePage :49 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (e8971efb9376e407898d02708176d982)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 11:07:844 INFO  HomePage :54 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (e8971efb9376e407898d02708176d982)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 11:07:261 INFO  HomePage :59 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (e8971efb9376e407898d02708176d982)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 11:07:588 INFO  HomePage :64 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 11:07:942 INFO  HomePage :69 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (e8971efb9376e407898d02708176d982)] -> id: nav-search-submit-button]
+2022-07-05 11:07:380 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 11:07:463 INFO  HomePage :49 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (20453ab5995b96e37c6d4f5e53e1d20f)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 11:07:953 INFO  HomePage :54 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (20453ab5995b96e37c6d4f5e53e1d20f)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 11:07:394 INFO  HomePage :59 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (20453ab5995b96e37c6d4f5e53e1d20f)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 11:07:826 INFO  HomePage :64 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 11:07:102 INFO  HomePage :69 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (20453ab5995b96e37c6d4f5e53e1d20f)] -> id: nav-search-submit-button]
+2022-07-05 11:07:937 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 11:07:227 INFO  HomePage :49 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (de3491ed64601f6ce9e78e13da3e6c62)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 11:07:690 INFO  HomePage :54 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (de3491ed64601f6ce9e78e13da3e6c62)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 11:07:62 INFO  HomePage :59 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (de3491ed64601f6ce9e78e13da3e6c62)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 11:07:473 INFO  HomePage :64 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 11:07:770 INFO  HomePage :69 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (de3491ed64601f6ce9e78e13da3e6c62)] -> id: nav-search-submit-button]
+2022-07-05 11:07:147 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 11:07:171 INFO  HomePage :49 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (2b00a886d0aee5fb764c9f5af028ed64)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 11:07:579 INFO  HomePage :54 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (2b00a886d0aee5fb764c9f5af028ed64)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 11:07:981 INFO  HomePage :59 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (2b00a886d0aee5fb764c9f5af028ed64)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 11:07:340 INFO  HomePage :64 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 11:07:581 INFO  HomePage :69 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (2b00a886d0aee5fb764c9f5af028ed64)] -> id: nav-search-submit-button]
+2022-07-05 11:07:625 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-07-05 11:07:432 INFO  HomePage :49 - I clicked on Accept cookies: [[ChromeDriver: chrome on WINDOWS (a9163338588b5f4e2fbfbe14f76c87f9)] -> xpath: //input[@id='sp-cc-accept']]
+2022-07-05 11:07:839 INFO  HomePage :54 - I click on search in dropdown : [[ChromeDriver: chrome on WINDOWS (a9163338588b5f4e2fbfbe14f76c87f9)] -> xpath: //select[@id='searchDropdownBox']]
+2022-07-05 11:07:229 INFO  HomePage :59 - I select books from the dropdown : [[ChromeDriver: chrome on WINDOWS (a9163338588b5f4e2fbfbe14f76c87f9)] -> xpath: //*[@id="searchDropdownBox"]/option[12]]
+2022-07-05 11:07:637 INFO  HomePage :64 - Enter Bitcoin in the search : Bitcoin
+2022-07-05 11:07:859 INFO  HomePage :69 - I clicked on search Button:[[ChromeDriver: chrome on WINDOWS (a9163338588b5f4e2fbfbe14f76c87f9)] -> id: nav-search-submit-button]
